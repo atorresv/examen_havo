@@ -1,0 +1,247 @@
+#+TITLE: 
+#+STARTUP: hidestars
+#+OPTIONS: ^:nil
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+HTML_HEAD: <style>
+#+HTML_HEAD: body {
+#+HTML_HEAD:   max-width: 1200px; /* Change to your desired width */
+#+HTML_HEAD:   margin: 0 auto;    /* Center the content */
+#+HTML_HEAD: }
+#+HTML_HEAD: </style>
+
+
+
+* domein a. vaardigheden
+
+* domein b. beeld- en geluidstechniek
+** subdomein b1. informatieoverdracht
+\[
+f = \frac{1}{T} \tag{1}
+\]
+
+\[
+T = 2\pi \sqrt{\frac{m}{C}} \tag{2}
+\]
+
+\[
+v = f\lambda \tag{3}
+\]
+
+** subdomein b2. medische beeldvorming
+
+\[
+E_f = hf \tag{1}
+\]
+
+\[
+c = f\lambda \tag{2}
+\]
+
+\[
+A = - \left( \frac{\Delta N}{\Delta t} \right)_{\text{nuklijen}} \tag{3}
+\]
+
+\[
+A_{\text{gem}} = -\frac{\Delta N}{\Delta t} \tag{4}
+\]
+
+\[
+D = \frac{E}{m} \tag{5}
+\]
+
+\[
+H = w_k D \tag{6}
+\]
+
+\[
+A = N + Z \tag{7}
+\]
+
+\[
+A = A_0 \left( \frac{1}{2} \right)^n \quad \text{met } n = \frac{t}{t_{\frac{1}{2}}} \tag{1}
+\]
+
+\[
+N = N_0 \left( \frac{1}{2} \right)^n \quad \text{met } n = \frac{t}{t_{\frac{1}{2}}} \tag{2}
+\]
+
+\[
+I = I_0 \left( \frac{1}{2} \right)^n \quad \text{met } n = \frac{d}{d_{\frac{1}{2}}}, t \tag{3}
+\]
+
+
+** subdomein b3. optica (beperkte keuze)
+* domein c. beweging en energie
+** subdomein c1. kracht en beweging
+
+\[
+s = vt, \quad \text{met } v \text{ constant} \tag{1}
+\]
+
+\[
+v_{\text{gem}} = \frac{\Delta x}{\Delta t}, \quad a_{\text{gem}} = \frac{\Delta v}{\Delta t} \tag{2}
+\]
+
+\[
+v = \left( \frac{\Delta x}{\Delta t} \right)_{\text{raaklijn}}, \quad
+a = \left( \frac{\Delta v}{\Delta t} \right)_{\text{raaklijn}} \tag{3}
+\]
+
+\[
+F_z = mg \tag{4}
+\]
+
+\[
+F_v = Cu \tag{5}
+\]
+
+\[
+F_{\text{res}} = ma \tag{6}
+\]
+
+\[
+F_1 r_1 = F_2 r_2 \tag{7}
+\]
+
+
+
+** subdomein c2. energieomzettingen
+
+\[
+W = Fs \tag{1}
+\]
+
+\[
+P = \frac{E}{t} \tag{2}
+\]
+
+\[
+P = \frac{W}{t} \tag{3}
+\]
+
+\[
+P = Fv \tag{4}
+\]
+
+\[
+E_k = \frac{1}{2} m v^2 \tag{5}
+\]
+
+\[
+E_z = mgh \tag{6}
+\]
+
+\[
+E_{\text{ch}} = r_v V \tag{7}
+\]
+
+\[
+E_{\text{ch}} = r_m m \tag{8}
+\]
+
+\[
+W_{\text{tot}} = \Delta E_k \tag{9}
+\]
+
+\[
+E_{\text{tot, in}} = E_{\text{tot, uit}} \tag{10}
+\]
+
+\[
+\eta = \frac{E_{\text{nuttig}}}{E_{\text{in}}} = \frac{P_{\text{nuttig}}}{P_{\text{in}}} \tag{11}
+\]
+
+
+* domein d. materialen
+** subdomein d1. eigenschappen van stoffen en materialen
+
+\[
+Q = cm\Delta T \tag{1}
+\]
+
+\[
+P = \lambda A \frac{\Delta T}{d} \tag{2}
+\]
+
+\[
+\rho = \frac{m}{V} \tag{3}
+\]
+
+\[
+Q = \frac{\Delta V}{\Delta t} = A v \tag{4}
+\]
+
+
+* domein e. Zonnestelsel en heelal
+** subdomein e1. zonnestelsel en heelal
+
+\[
+F_z = G \frac{mM}{r^2} \tag{1}
+\]
+
+\[
+F_{\text{mpz}} = \frac{m v^2}{r} \tag{2}
+\]
+
+\[
+v = \frac{2\pi r}{T} \tag{3}
+\]
+
+\[
+\lambda_{\text{max}} T = k_W \tag{4}
+\]
+
+
+* domein g. meten en regelen
+** subdomein g1. gebruik van elektriciteit
+
+\[
+I = \frac{Q}{t} \tag{1}
+\]
+
+\[
+\rho = \frac{R A}{\ell} \tag{2}
+\]
+
+\[
+U = IR \tag{3}
+\]
+
+\[
+U_{\text{tot}} = U_1 + U_2 + \dots \tag{4}
+\]
+
+\[
+I_{\text{tot}} = I_1 = I_2 = \dots \tag{5}
+\]
+
+\[
+R_{\text{tot}} = R_1 + R_2 + \dots \tag{6}
+\]
+
+\[
+U_{\text{tot}} = U_1 = U_2 = \dots \tag{7}
+\]
+
+\[
+I_{\text{tot}} = I_1 + I_2 + \dots \tag{8}
+\]
+
+\[
+\frac{1}{R_{\text{tot}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots \tag{9}
+\]
+
+\[
+P = UI \tag{10}
+\]
+
+\[
+E = Pt \tag{11}
+\]
+
+\[
+\eta = \frac{E_{\text{nuttig}}}{E_{\text{in}}} = \frac{P_{\text{nuttig}}}{P_{\text{in}}} \tag{12}
+\]
+
+** subdomein g2. technische automatisering (beperkte keuze)
+* domein h. natuurkunde en technologie
