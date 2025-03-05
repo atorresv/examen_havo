@@ -371,7 +371,7 @@
 | 29           | Bolt, tijdswinst bij estafette                                         | Bereken hoeveel tijdswinst Bolt kan behalen door niet vanuit stilstand te vertrekken.                                 | Analyse van start- en racesnelheden uit grafieken.                                 |
 
 * NAH221VB.TXT
-Hier is een overzichtstabel van betrokken concepten, acties, en benodigde kennis voor het HAVO natuurkunde examen 2022, tijdvak 1:
+:
 
 | Vraagnummer | Betrokken voorwerpen/concepten                              | Acties/Berekeningen                                                                                                                       | Benodigde kennis/vaardigheden                                                     |
 |------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -402,9 +402,9 @@ Hier is een overzichtstabel van betrokken concepten, acties, en benodigde kennis
 | 25               | Exploderende draad, moleculair model                          | Beschrijf de beweging en positie van koperdeeltjes bij toenemende temperatuur en faseovergang.                                                | Begrip van moleculaire beweging en faseovergangen.                                   |
 | 26               | Exploderende draad, druppelsnelheid                           | Bereken of de koperdruppels het publiek konden bereiken.                                                                                      | Kennis van snelheid, afstand, en tijd.                                               |
 
-Laat me weten of je nog specifieke hulp nodig hebt bij een vraag of onderwerp!
+
 * NAH222VB.TXT
-Hier is de overzichtstabel:
+
 
 | Vraagnummer | Betrokken voorwerpen/concepten                            | Acties/Berekeningen                                                                                                                       | Benodigde kennis/vaardigheden                                                   |
 |------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -433,9 +433,9 @@ Hier is de overzichtstabel:
 | 23               | Percolator, schakelschema                                   | Leg uit of een grote of kleine weerstand nodig is voor groot vermogen en bepaal de stand van de schakelaar in fase I.                        | Begrip van elektrische schakelingen en vermogensaanpassing.                        |
 | 24               | Percolator, vacuümwand                                      | Geef aan welke vorm van warmtetransport volledig wordt tegengehouden door een vacuümwand.                                                     | Begrip van warmtegeleiding, convectie, en straling.                                |
 
-Laat me weten of je nog specifieke hulp nodig hebt bij een vraag!
+
 * NAH223VB.TXT
-Hier is de gevraagde tabel voor het HAVO 2022 natuurkunde examen tijdvak 3, in het gewenste format:
+
 
 | Vraagnummer | Betrokken voorwerpen/concepten                          | Acties/Berekeningen                                                                                                                                                     | Benodigde kennis/vaardigheden                                                                             |
 |------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -464,7 +464,7 @@ Hier is de gevraagde tabel voor het HAVO 2022 natuurkunde examen tijdvak 3, in h
 | 23               | Rekstrook, elektrische sensorspanning                   | Leg uit of de voltmeter is aangesloten over de rekstrook of de vaste weerstand.                                                                                             | Begrip van elektrische schakelingen en sensoren.                                                               |
 | 24               | Staalkabel, spanning                                    | Bereken of de spanning in de staalkabels binnen het veilige gebied blijft met de gemeten elektrische sensorspanningen.                                                      | Kennis van mechanische spanning, sensoren, en veiligheid.                                                      |
 
-Laat me weten of je extra hulp nodig hebt met een specifieke vraag!
+
 * NAH231VB.TXT
 
 | Vraagnummer | Betrokken voorwerpen/concepten                          | Acties/Berekeningen                                                                                                                                                     | Benodigde kennis/vaardigheden                                                                             |
