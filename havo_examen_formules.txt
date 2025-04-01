@@ -10,11 +10,12 @@
 #+HTML_HEAD: </style>
 
 
+* HAVO 2025
 
-* domein a. vaardigheden
+** domein a. vaardigheden
 
-* domein b. beeld- en geluidstechniek
-** subdomein b1. informatieoverdracht
+** domein b. beeld- en geluidstechniek
+*** subdomein b1. informatieoverdracht
 \[
 f = \frac{1}{T} \tag{1}
 \]
@@ -27,7 +28,7 @@ T = 2\pi \sqrt{\frac{m}{C}} \tag{2}
 v = f\lambda \tag{3}
 \]
 
-** subdomein b2. medische beeldvorming
+*** subdomein b2. medische beeldvorming
 
 \[
 E_f = hf \tag{1}
@@ -70,9 +71,9 @@ I = I_0 \left( \frac{1}{2} \right)^n \quad \text{met } n = \frac{d}{d_{\frac{1}{
 \]
 
 
-** subdomein b3. optica (beperkte keuze)
-* domein c. beweging en energie
-** subdomein c1. kracht en beweging
+*** subdomein b3. optica (beperkte keuze)
+** domein c. beweging en energie
+*** subdomein c1. kracht en beweging
 
 \[
 s = vt, \quad \text{met } v \text{ constant} \tag{1}
@@ -105,7 +106,7 @@ F_1 r_1 = F_2 r_2 \tag{7}
 
 
 
-** subdomein c2. energieomzettingen
+*** subdomein c2. energieomzettingen
 
 \[
 W = Fs \tag{1}
@@ -152,8 +153,8 @@ E_{\text{tot, in}} = E_{\text{tot, uit}} \tag{10}
 \]
 
 
-* domein d. materialen
-** subdomein d1. eigenschappen van stoffen en materialen
+** domein d. materialen
+*** subdomein d1. eigenschappen van stoffen en materialen
 
 \[
 Q = cm\Delta T \tag{1}
@@ -172,8 +173,8 @@ Q = \frac{\Delta V}{\Delta t} = A v \tag{4}
 \]
 
 
-* domein e. Zonnestelsel en heelal
-** subdomein e1. zonnestelsel en heelal
+** domein e. Zonnestelsel en heelal
+*** subdomein e1. zonnestelsel en heelal
 
 \[
 F_z = G \frac{mM}{r^2} \tag{1}
@@ -192,8 +193,8 @@ v = \frac{2\pi r}{T} \tag{3}
 \]
 
 
-* domein g. meten en regelen
-** subdomein g1. gebruik van elektriciteit
+** domein g. meten en regelen
+*** subdomein g1. gebruik van elektriciteit
 
 \[
 I = \frac{Q}{t} \tag{1}
@@ -243,5 +244,5 @@ E = Pt \tag{11}
 \eta = \frac{E_{\text{nuttig}}}{E_{\text{in}}} = \frac{P_{\text{nuttig}}}{P_{\text{in}}} \tag{12}
 \]
 
-** subdomein g2. technische automatisering (beperkte keuze)
-* domein h. natuurkunde en technologie
+*** subdomein g2. technische automatisering (beperkte keuze)
+** domein h. natuurkunde en technologie
